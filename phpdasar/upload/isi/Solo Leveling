@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solo Leveling - AIR Novel</title>
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="navbar.css">
+    <style>
+        body{
+            background-color: #16151d;
+        }
+        h1{
+            font-family: Poppins;
+            font-size: 15px;
+            color: #ffff;
+            float: right;
+            margin-right: 540px;
+        }
+        img{
+            width:200px;
+            height: 300px;
+            margin: 10px;
+        }
+        .satu{
+            display: inline-block;
+            margin-top: 25px;
+            margin-left: 10px;
+            width:900px;
+            height: 324px;
+            background-color: #1d1b26;
+            border-radius: 5px;
+        }
+        .dua{
+            position: relative;
+            background-color: #1d1b26;
+            width: 300px;
+            height: 20px;
+            left: 250px;
+            bottom: 35px;
+        }
+        input{
+            display: inline-block;
+            margin-left: 15px;
+        }
+        .tiga{
+            margin-top: 25px;
+            margin-left: 10px;
+            width:900px;
+            height: 324px;
+            background-color: #1d1b26;
+            border-radius: 5px;
+        }
+    a{
+      text-decoration: none;
+      color: #989898;
+      font-family: Poppins;
+    }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <ul>
+          <li><a href="#">AIR Novel</a></li>
+          <li><a href="../../index.php">Home</a></li>
+          <li><a href="">About Us</a></li>
+        </ul>
+      </div>
+
+
+    <div class="nol">
+    <div class="satu">
+        <img src="Solo Leveling.jpg" alt=""><h1>Solo Leveling</h1>
+    </div>
+    <div class="dua">
+       <a href="sl1.html"><input id="Edit" type="submit" value="Read First Chapter"></a> 
+       <a href="sl2.html"><input id="Edit" type="submit" value="Read Last Chapter"></a>
+    </div>
+    <div class="tiga">
+        <div style="height: 300px;width:900px;border:1px solid #303030;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
+            <a href="">Chapter 14</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 13</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 12</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 11</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 10</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 9</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 8</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 7</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 6</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 5</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 4</a> <br> <hr size="1" color="#33313a">
+            <a href="">Chapter 3</a> <br> <hr size="1" color="#33313a">
+            <a href="sl2.html">Chapter 2</a> <br> <hr size="1" color="#33313a">
+            <a href="sl1.html">Chapter 1</a> <br> <hr size="1" color="#33313a">
+            </div>
+    </div>
+</div>
+</body>
+    
+    
+
+
+</body>
+</html>
